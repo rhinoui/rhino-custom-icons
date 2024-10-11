@@ -1,0 +1,41 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 4 4;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-1" points="41 22 41 25 38 25"/>
+    <line class="cls-3" x1="34" y1="25" x2="28" y2="25"/>
+    <polyline class="cls-1" points="26 25 23 25 23 22"/>
+    <line class="cls-3" x1="23" y1="18" x2="23" y2="12"/>
+    <polyline class="cls-1" points="23 10 23 7 26 7"/>
+    <line class="cls-3" x1="30" y1="7" x2="36" y2="7"/>
+    <polyline class="cls-1" points="38 7 41 7 41 10"/>
+    <line class="cls-3" x1="41" y1="14" x2="41" y2="20"/>
+  </g>
+  <line class="cls-2" x1="28.97" y1="28.97" x2="40" y2="40"/>
+  <path class="cls-4" d="M21,12c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M21,9c-6.63,0-12,5.37-12,12s5.37,12,12,12,12-5.37,12-12-5.37-12-12-12h0Z"/>
+</svg>

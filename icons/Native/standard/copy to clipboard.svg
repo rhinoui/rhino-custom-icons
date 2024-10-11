@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 4.24 3.18;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 4 3;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-1" points="39 33 39 35 37 35"/>
+    <line class="cls-2" x1="33.82" y1="35" x2="20.59" y2="35"/>
+    <polyline class="cls-1" points="19 35 17 35 17 33"/>
+    <line class="cls-3" x1="17" y1="30" x2="17" y2="10.5"/>
+    <polyline class="cls-1" points="17 9 17 7 19 7"/>
+    <line class="cls-2" x1="22.18" y1="7" x2="35.41" y2="7"/>
+    <polyline class="cls-1" points="37 7 39 7 39 9"/>
+    <line class="cls-3" x1="39" y1="12" x2="39" y2="31.5"/>
+  </g>
+  <rect class="cls-4" x="8" y="12" width="24" height="30"/>
+</svg>

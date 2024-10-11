@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #505050;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="34 6 34 8 40 8 40 14 42 14 42 6 34 6"/>
+  <polygon class="cls-2" points="14 42 14 40 8 40 8 34 6 34 6 42 14 42"/>
+  <path class="cls-1" d="M34,34H14s0-20,0-20h20v20ZM30.4,30l-4.53-12h-2.89l-4.53,12h2.99l.87-2.48h4.21l.87,2.48h2.99ZM24.48,21.68l1.13,3.21h-2.35l1.13-3.21h.09Z"/>
+</svg>
